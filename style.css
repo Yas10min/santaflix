@@ -1,0 +1,28 @@
+header{
+    font-size: 32px;
+    color:red;
+    background:black;
+    }
+    body{background:black;
+    color: white;
+    }
+    
+section{
+
+    color: red;
+    background: green;
+}
+img{
+    height: 200px;
+}
+.seletor{
+    display:flex;
+    overflow-x: auto;
+    gap:20px;
+}
+.seletor img{
+    opacity:0.5;
+}
+.seletor img:hover{
+    opacity:1.0;
+}
